@@ -1,0 +1,23 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "Express",
+    "intro",
+    "lab"
+  ],
+  "author": "Erik Casas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0",
+    "supertest": "6.3.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
